@@ -7,6 +7,7 @@ var mark = "";
 		
 for (var i = 0; i < size; i++ ){
 
+	// Format string until line break
 	for (var j = 0; j < size - 1; j++){
 		
 		if (j % 2 == 0){
